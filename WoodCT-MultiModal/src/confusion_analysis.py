@@ -43,43 +43,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Species names (Latin)
 SPECIES_NAMES = {
-    1: 'Dalbergia latifolia', 
-    2: 'Guibourtia sp.', 
-    3: 'Dalbergia granadillo', 
-    4: 'Juglans nigra', 
-    5: 'Diospyros melanoxylon',
-    6: 'Swartzia cubensis', 
-    7: 'Pterocarpus erinaceus', 
-    8: 'Dalbergia bariensis', 
-    9: 'Microberlinia brazzavillensis', 
-    10: 'Rhodamnia dumetorum',
-    11: 'Marmaroxylon racemosum', 
-    12: 'Tectona grandis', 
-    13: 'Marmaroxylon racemosum', 
-    14: 'Baphia nitida', 
-    15: 'Prunus serotina',
-    16: 'Chamaecyparis obtusa', 
-    17: 'Acer sp.', 
-    18: 'Tilia sp.', 
-    19: 'Prunus persica', 
-    20: 'Swartzia sp.',
-    21: 'Chlorophora regia', 
-    22: 'Combretum imberbe', 
-    23: 'Dalbergia granadillo', 
-    24: 'Aetoxylon sympetalum', 
-    25: 'Gluta sp.',
-    26: 'Dalbergia oliveri', 
-    27: 'Myroxylon balsamum', 
-    28: 'Buxus sinica', 
-    30: 'Phoebe puwenensis',
-    31: 'Phoebe zhennan', 
-    32: 'Dipterocarpus tuberculatus', 
-    33: 'Pterocarpus macrocarpus', 
-    34: 'Pterocarpus sp.',
-    36: 'Dalbergia retusa', 
-    37: 'Millettia stuhlmannii', 
-    38: 'Dalbergia cultrata', 
-    40: 'Buxus sinica var.'
+ 
 }
 
 
